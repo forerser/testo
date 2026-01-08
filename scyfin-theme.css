@@ -995,7 +995,7 @@ html,
 .layout-desktop #loginPage .readOnlyContent:has(.btnManual.hide) .btnForgotPassword {
     background: none !important;
     font-weight: normal !important;
-    width: auto !important;
+    width: 150px !important;
     position: absolute !important;
     margin-left: 320px !important;
     top: -200px !important;
